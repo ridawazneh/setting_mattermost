@@ -13,7 +13,7 @@
   1-this is the directory of bind mount volume of docker, as you see here
   /home/docker/volumes/app/mattermost/client/plugins
   2-cd into directory 
-  3-wget  from here https://github.com/mattermost/mattermost-plugin-boards/releases, do not use the old one 
+  3-wget  from here https://github.com/mattermost/mattermost-plugin-boards/releases, do not use the old one , use 9.1 , rename boards to focalboard
   4- tar -xvf ./plugin.tar.gz
   increase max file size in config.json and allow plugin upload in config.json
   /home/docker/volumes/app/mattermost/config
